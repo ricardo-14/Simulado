@@ -1,0 +1,8 @@
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioForca\DesafioForca\bin\Debug\DesafioForca.exe.config
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioForca\DesafioForca\bin\Debug\DesafioForca.exe
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioForca\DesafioForca\bin\Debug\DesafioForca.pdb
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioForca\DesafioForca\obj\Debug\DesafioForca.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioForca\DesafioForca\obj\Debug\DesafioForca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioForca\DesafioForca\obj\Debug\DesafioForca.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioForca\DesafioForca\obj\Debug\DesafioForca.exe
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioForca\DesafioForca\obj\Debug\DesafioForca.pdb
