@@ -1,0 +1,8 @@
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioOrdenacao\DesafioOrdenacao\bin\Debug\DesafioOrdenacao.exe.config
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioOrdenacao\DesafioOrdenacao\bin\Debug\DesafioOrdenacao.exe
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioOrdenacao\DesafioOrdenacao\bin\Debug\DesafioOrdenacao.pdb
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioOrdenacao\DesafioOrdenacao\obj\Debug\DesafioOrdenacao.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioOrdenacao\DesafioOrdenacao\obj\Debug\DesafioOrdenacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioOrdenacao\DesafioOrdenacao\obj\Debug\DesafioOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioOrdenacao\DesafioOrdenacao\obj\Debug\DesafioOrdenacao.exe
+C:\Users\Ricardo\Desktop\Curso C#\Simulado\DesafioOrdenacao\DesafioOrdenacao\obj\Debug\DesafioOrdenacao.pdb
