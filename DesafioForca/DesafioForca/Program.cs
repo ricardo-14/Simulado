@@ -10,7 +10,11 @@ namespace DesafioForca
     {
         static void Main(string[] args)
         {
-            string palavra = "CARRO";
+            string[] palavras = { "CARRO", "SAPATO", "BOLA" };
+
+            Random randPalavra = new Random();
+
+            string palavra = palavras[randPalavra.Next(palavras.Length)];
 
             char[] palavraEscondida = new char[palavra.Length];
 
@@ -19,10 +23,10 @@ namespace DesafioForca
                 palavraEscondida[i] = '_';
             }
 
-            while (Convert.ToString(palavraEscondida) != palavra)
+            while (new string(palavraEscondida) != palavra)
             {
                 Console.WriteLine("Digite uma letra: ");
-                char letra = char.Parse(Console.ReadLine());
+                char letra = char.Parse(Console.ReadLine().ToUpper());
 
                 bool letraCerta = false;
 
@@ -33,13 +37,18 @@ namespace DesafioForca
                         palavraEscondida[i] = letra;
                         letraCerta = true;
                     }
+                
+                }
+
+                if (letraCerta == false) 
+                {
+                    Console.WriteLine("\nNão tem essa letra na palavra!");
                 }
 
                 Console.WriteLine(palavraEscondida);
-
             }
 
-            Console.WriteLine(palavraEscondida);
+            Console.WriteLine("Parabéns você acertou a palavra!");
             Console.ReadKey();
         }
     }
